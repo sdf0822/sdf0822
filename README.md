@@ -1,7 +1,7 @@
 # Hi there 👋
 我喜歡學習新知識、樂在學習，願意嘗試挑戰。
 
-[![Medium Badge](https://img.shields.io/badge/-MyBlog-007ACC?style=plastic&logo=Hexo&logoColor=white&link=https://medium.com/@moshfiqrony/)](https://medium.com/@moshfiqrony)
+[![Hexo Badge](https://img.shields.io/badge/-MyBlog-007ACC?style=plastic&logo=Hexo&logoColor=white&link=https://yilin10.tw)](https://yilin10.tw)
 [![Gmail Badge](https://img.shields.io/badge/-service@yilin10.tw-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:service@yilin10.tw)](mailto:service@yilin10.tw)
 
 
