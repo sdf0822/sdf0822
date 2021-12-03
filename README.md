@@ -29,10 +29,10 @@
 
 <br>
 <a href="https://github.com/sdf0822">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sdf0822&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sdf0822&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/sdf0822">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdf0822&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdf0822&layout=compact&theme=dark" />
 </a>
 
 # 最近的文章
